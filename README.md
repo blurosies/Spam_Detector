@@ -1,2 +1,3 @@
 # Spam_Detector
-1 Neuron model that classifies texts as ham or spam.
+Implementation of Logistic Regression and Adaline models to classify messages as ham or spam, with stochastic gradient descent.
+the goal is to compare the models' performance and accuracy.
